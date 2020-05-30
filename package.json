@@ -1,0 +1,17 @@
+{
+  "name": "TrabalhoNode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "TrabalhoNode.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csvjson": "^5.1.0",
+    "fast-csv": "^4.3.0",
+    "moment": "^2.26.0"
+  }
+}
